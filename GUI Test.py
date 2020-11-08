@@ -18,4 +18,3 @@ label = Label(text="Куда идти?", font="12", pady="80")
 label.pack()
 
 root.mainloop()
-dfsdg
