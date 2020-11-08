@@ -14,7 +14,9 @@ btnW = Button(text="ЗАПАД", bg="#000000", fg="#FFFFFF",  pady="2", font="12
 btnW.pack(side=LEFT)
 btnE = Button(text="ВОСТОК", bg="#0C9002", fg="#FFFFFF",  pady="2", font="12", width=12)
 btnE.pack(side=RIGHT)
-label = Label(text="Куда идти?", font="12", pady="80")
+label = Label(text="Что делать?", font="12", pady="80")
 label.pack()
 
 root.mainloop()
+
+print("hello world!")
